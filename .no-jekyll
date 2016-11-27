@@ -1,0 +1,3 @@
+Prevent this repo from being processed as a Ruby site by GitHub,
+thus slowing down updates after commits and preventing the use of
+files or folders that start with an underscore.
