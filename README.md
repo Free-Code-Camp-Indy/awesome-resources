@@ -1,29 +1,29 @@
 ## Here are some good resources and advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
-#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md)
+#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md).
 
 
 ## Navigation
 
-[General](#general)  
-[HTML](#html)  
-[CSS - Beginner](#css---beginner)  
-[CSS - Intermediate](#css---intermediate)  
-[Sass](#sass)  
-[jQuery](#jquery)  
-[Javascript - Beginner](#javascript---beginner)  
-[Javascript - Advanced](#javascript---advanced)  
-[Javascript - Algorithms](#javascript---algorithms)  
-[React](#react)  
-[Redux](#redux)  
-[D3](#d3)  
-[Node/Express](#nodeexpress)  
-[MongoDB](#mongodb)  
-[Audiobooks](#audiobook)  
-[Books/eBooks](#booksebooks)  
-[Podcasts](#podcasts)  
-[Youtube Channels](#youtube-channels)  
-[Other](#other)
+1. [General](#general)
+* [HTML](#html)
+* [CSS - Beginner](#css---beginner)
+* [CSS - Intermediate](#css---intermediate)
+* [Sass](#sass)
+* [jQuery](#jquery)
+* [Javascript - Beginner](#javascript---beginner)
+* [Javascript - Advanced](#javascript---advanced)
+* [Javascript - Algorithms](#javascript---algorithms)
+* [React](#react)
+* [Redux](#redux)
+* [D3](#d3)
+* [Node/Express](#nodeexpress)
+* [MongoDB](#mongodb)
+* [Audiobooks](#audiobooks)
+* [Books/eBooks](#booksebooks)
+* [Podcasts](#podcasts)
+* [Youtube Channels](#youtube-channels)
+* [Other](#other)
 
 ## General
 
@@ -180,4 +180,4 @@
 
 * * *
 
-#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md)
+#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md).
