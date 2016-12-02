@@ -1,29 +1,30 @@
 ## Here are some good resources and advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
-#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md).
+#### If you have any suggestions, please raise an issue or get in touch with me: gwenfaraday@gmail.com
 
 
 ## Navigation
 
-1. [General](#general)
-* [HTML](#html)
-* [CSS - Beginner](#css---beginner)
-* [CSS - Intermediate](#css---intermediate)
-* [Sass](#sass)
-* [jQuery](#jquery)
-* [Javascript - Beginner](#javascript---beginner)
-* [Javascript - Advanced](#javascript---advanced)
-* [Javascript - Algorithms](#javascript---algorithms)
-* [React](#react)
-* [Redux](#redux)
-* [D3](#d3)
-* [Node/Express](#nodeexpress)
-* [MongoDB](#mongodb)
-* [Audiobooks](#audiobooks)
-* [Books/eBooks](#booksebooks)
-* [Podcasts](#podcasts)
-* [Youtube Channels](#youtube-channels)
-* [Other](#other)
+[General](#general) <br>
+[HTML](#html) <br>
+[CSS - Beginner](#css---beginner) <br>
+[CSS - Intermediate](#css---intermediate) <br>
+[Sass](#sass) <br>
+[jQuery](#jquery) <br>
+[Javascript - Beginner](#javascript---beginner) <br>
+[Javascript - Advanced](#javascript---advanced) <br>
+[Javascript - Algorithms](#javascript---algorithms) <br>
+[React](#react) <br>
+[Redux](#redux) <br>
+[D3](#d3) <br>
+[Node/Express](#nodeexpress) <br>
+[MongoDB](#mongodb) <br>
+[Audiobooks](#audiobook) <br>
+[Books/eBooks](#booksebooks) <br>
+[Podcasts](#podcasts) <br>
+[Javascript News](#javascript-news) <br>
+[Youtube Channels](#youtube-channels) <br>
+[Other](#other)
 
 ## General
 
@@ -35,22 +36,22 @@
 
 ## HTML
 
-* [MarkSheet](http://marksheet.io) - Teaches basic html and css for free
-* [Don't fear the internet](http://www.dontfeartheinternet.com) - Lot's of great tutorials to simplify learning html and css
-* [Great book for learning HTML and CSS](http://www.htmlandcssbook.com)
+* [MarkSheet](http://marksheet.io/) - Teaches basic html and css for free
+* [Don't fear the internet](http://www.dontfeartheinternet.com/) - Lot's of great tutorials to simplify learning html and css
+* [Great book for learning HTML and CSS](http://www.htmlandcssbook.com/)
 
 ## CSS - Beginner
 
 #### *some topics in html section also relevant
 
 * [Introductory CSS Topics Playlist on Youtube](https://www.youtube.com/playlist?list=PL478wQWRhpfayR-iXIUvAhcwVXKHlpFHX) - Kirupa Chinnathambi
-* [CSS Sushi](https://flukeout.github.io) - Very well designed game for learning CSS
-* [Team Treehouse](https://teamtreehouse.com) - Excellent video courses for learning CSS and Responsive Web Design
+* [CSS Sushi](https://flukeout.github.io/) - Very well designed game for learning CSS
+* [Team Treehouse](https://teamtreehouse.com/) - Excellent video courses for learning CSS and Responsive Web Design
 
 ## CSS - Intermediate
 
 * [Intermediate and Advanced CSS tutorials from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials#Intermediate-level_CSS_tutorials)
-* [Email Course for CSS Animations](https://cssanimation.rocks/courses/animation-101) - Pay what you want, 4-weeks
+* [Email Course for CSS Animations](https://cssanimation.rocks/courses/animation-101/) - Pay what you want, 4-weeks
 
 ## Sass
 
@@ -61,22 +62,24 @@
 ## jQuery
 
 * [Try jQuery Free on Code School](https://www.codeschool.com/courses/try-jquery)
+* [jQuery Learning Course](https://css-tricks.com/lodge/learn-jquery/) - by CSS-Tricks
 
 #### Comparing jQuery with standard Javascript:
 
-* [Stop Writing Slow Javascript](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript) - Article
-* [Might not need jquery](http://youmightnotneedjquery.com) - Good for learning what goes on under the hood in jQuery and understanding if you need to use in your project it or not.
+* [Stop Writing Slow Javascript](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/) - Article
+* [Might not need jquery](http://youmightnotneedjquery.com/) - Good for learning what goes on under the hood in jQuery and understanding if you need to use in your project it or not.
 
 ## Javascript - Beginner
 
 * [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
+* [Learn Javascript in One Video](https://www.youtube.com/watch?v=fju9ii8YsGs) - Derek Banas on Youtube
 
 ## Javascript - Advanced
 
 * [Javascript is weird video series](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_) - Youtube
 * [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
-* [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com)
+* [Intermediate and Advanced JS Topics on Front End Masters](https://frontendmasters.com/)
 * [Advanced JS on Pluralsight](https://www.pluralsight.com/courses/advanced-javascript)
 * [Video series by learncode.Academy on Modular Programming](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f) - Youtube
 * [Read the MDN documentation on lexical scope](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
@@ -97,14 +100,14 @@
 ## Javascript - Algorithms
 
 * Khan academy has a good [introduction to solving different types of algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-* [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com)
-* [Project Euler](https://projecteuler.net) - More advanced and language agnostic
+* [hackerrank.com lets you solve algorithms in multiple languages, from beginner to advanced](https://www.hackerrank.com/)
+* [Project Euler](https://projecteuler.net/) - More advanced and language agnostic
 
 ## React
 
 * Read the [docs](https://facebook.github.io/react/docs/hello-world.html) and the [section about 'thinking in react'](https://facebook.github.io/react/docs/thinking-in-react.html) and then go and watch the Facebook team's videos, even if you don't understand them right away.
 * [React/Flux](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) and [React/Redux](https://www.youtube.com/playlist?list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) YouTube courses - both by learncode.Academy
-* [Udemy Course](https://www.udemy.com/react-redux) - by Stephen Grider
+* [Udemy Course](https://www.udemy.com/react-redux/) - by Stephen Grider
 * [Facebook Developers have several React Playlists](https://www.youtube.com/user/FacebookDevelopers/playlists) - Youtube
 
 ## Redux
@@ -145,13 +148,18 @@
 * [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882), by Robert Martin
 * [Better than College](https://www.amazon.com/Better-Than-College-Successful-Four-Year/dp/0986011908/ref=cm_cr_arp_d_product_top?ie=UTF8) by Blake Boles - How to have a successful career without a four year degree.
 * [Dev Free Books](https://devfreebooks.github.io) - Tons of free e-books for developers.
-* [More Free Javascript Books](http://jsbooks.revolunet.com)
+* [More Free Javascript Books](http://jsbooks.revolunet.com/)
   
 ## Podcasts
 
 * [Code Newbie](http://www.codenewbie.org/podcast) - as the name implies, very noob-friendly 
 * [Javascript Jabber](https://devchat.tv/js-jabber) - this one generally covers a little more in depth topics and has a vast library of episodes on cutting edge tech
-* [Javascript Air](https://javascriptair.com)
+* [Javascript Air](https://javascriptair.com/)
+* [Node Up](http://nodeup.com/)
+
+## Javascript News
+
+* [Five Minutes of Javascript](https://fivejs.codeschool.com/) - Newsletter of Current Javascript News
 
 ## Youtube Channels
 
@@ -163,21 +171,27 @@
 ## Other
 
 * Command Line:
-  * [Command Line Power User Video Tutorials](http://commandlinepoweruser.com)
+
+  * [Command Line Power User Video Tutorials](http://commandlinepoweruser.com/)
   * [Learn the Command Line the Hard Way](https://learnpythonthehardway.org/book/appendixa.html) by David Shaw
   * [Conquering the Command Line](http://conqueringthecommandline.com/book)
 
 * Git:
+
   * [Interactive Git Tutorial](https://try.github.io) - by Github
-  * [Git Immersion](http://gitimmersion.com)
+  * [Git Immersion](http://gitimmersion.com/)
   * [Git-It](http://jlord.us/git-it/index.html) - Simple step-by-step command line guide for learning git
 
 * Developer Tools:
+
   * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
 
 * Databases:
-  * [Learn SQL Interactive Tutorials](https://sqlbolt.com)
 
-* * *
+  * [Learn SQL Interactive Tutorials](https://sqlbolt.com/)
 
-#### If you have any suggestions, please [raise an issue](https://github.com/Free-Code-Camp-Indy/awesome-resources/issues) or [create a pull request](https://github.com/Free-Code-Camp-Indy/awesome-resources/blob/gh-pages/README.md).
+<hr>
+
+### If you have any questions, suggestions, or feedback, e-mail me: 
+
+*gwenfaraday@gmail.com.*
