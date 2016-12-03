@@ -1,6 +1,6 @@
 ## Here are some good resources and advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
 
-#### If you have any suggestions, please raise an issue or get in touch with me: gwenfaraday@gmail.com
+#### If you have any suggestions, please raise an issue or submit a PR. Contributions are appreciated!
 
 
 ## Navigation
@@ -24,7 +24,7 @@
 [Podcasts](#podcasts) <br>
 [Javascript News](#javascript-news) <br>
 [Youtube Channels](#youtube-channels) <br>
-[Other](#other)
+[Other](#other) <br>
 
 ## General
 
@@ -192,6 +192,4 @@
 
 <hr>
 
-### If you have any questions, suggestions, or feedback, e-mail me: 
-
-*gwenfaraday@gmail.com.*
+### Again, if you have any questions, suggestions, or feedback: Raise an issue and let us know!
