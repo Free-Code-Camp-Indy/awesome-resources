@@ -5,26 +5,31 @@
 
 ## Navigation
 
-[General](#general) <br>
-[HTML](#html) <br>
-[CSS - Beginner](#css---beginner) <br>
-[CSS - Intermediate](#css---intermediate) <br>
-[Sass](#sass) <br>
-[jQuery](#jquery) <br>
-[Javascript - Beginner](#javascript---beginner) <br>
-[Javascript - Advanced](#javascript---advanced) <br>
-[Javascript - Algorithms](#javascript---algorithms) <br>
-[React](#react) <br>
-[Redux](#redux) <br>
-[D3](#d3) <br>
-[Node/Express](#nodeexpress) <br>
-[MongoDB](#mongodb) <br>
-[Audiobooks](#audiobook) <br>
-[Books/eBooks](#booksebooks) <br>
-[Podcasts](#podcasts) <br>
-[Javascript News](#javascript-news) <br>
-[Youtube Channels](#youtube-channels) <br>
-[Other](#other) <br>
+* [General](#general)
+* [HTML](#html)
+* __Styles__
+  * [CSS - Beginner](#css---beginner)
+  * [CSS - Intermediate](#css---intermediate)
+  * [Flexbox](#flexbox)
+  * [Sass](#sass)
+* __Javascript__
+  * [jQuery](#jquery)
+  * [Javascript - Beginner](#javascript---beginner)
+  * [Javascript - Advanced](#javascript---advanced)
+  * [Javascript - Algorithms](#javascript---algorithms)
+  * [React](#react)
+  * [Redux](#redux)
+  * [D3](#d3)
+  * [Node/Express](#nodeexpress)
+* __Database__
+  * [MongoDB](#mongodb)
+* __Other Materials__
+  * [Audiobooks](#audiobook)
+  * [Books/eBooks](#booksebooks)
+  * [Podcasts](#podcasts)
+  * [Javascript News](#javascript-news)
+  * [Youtube Channels](#youtube-channels)
+  * [Other](#other)
 
 ## General
 
@@ -53,6 +58,12 @@
 * [Intermediate and Advanced CSS tutorials from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Tutorials#Intermediate-level_CSS_tutorials)
 * [Email Course for CSS Animations](https://cssanimation.rocks/courses/animation-101/) - Pay what you want, 4-weeks
 
+## Flexbox
+
+* [Flexbox Froggy](http://flexboxfroggy.com/)
+* [Tower Defense Game](http://www.flexboxdefense.com/)
+* [Compatibility Table](http://caniuse.com/#feat=flexbox)
+
 ## Sass
 
 * [Great Sass video crash course](https://www.youtube.com/playlist?list=PLriKzYyLb28nvORWgaD0hAbBcJUcsxy16) - Youtube
@@ -71,6 +82,7 @@
 
 ## Javascript - Beginner
 
+* [Intro to Javascript](https://www.javascript.com) - Extremely basic interactive tutorial
 * [Introduction to Javascript Playlist](https://www.youtube.com/playlist?list=PL478wQWRhpfa1aPYzB_CzhJ-vFQ7BCeZS) on Youtube - by Kirupa Chinnathambi
 * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
 * [Learn Javascript in One Video](https://www.youtube.com/watch?v=fju9ii8YsGs) - Derek Banas on Youtube
@@ -141,6 +153,7 @@
   - This is a very motivating audio book if you are teaching yourself how to code. The author talks about his journey where he landed a developer job in ~9 months of teaching himself and shares some important experiences. The book talks mostly about Ruby on Rails but is also very useful for people learning JS or any other language. I prefer the audiobook but it is also available for Kindle.
 * [Soft Skills](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM) by John Sonmez
 * [The Innovators](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/B00M9KICAY) by Walter Isaacson
+* [Mindset](https://www.amazon.com/Mindset-New-Psychology-Success/dp/B001U5P7CK) - Cutting Edge Pychology about having the Mindset to Succeed
   
 ## Books/eBooks
 
@@ -159,11 +172,13 @@
 
 ## Javascript News
 
+* [Ethical Design News](http://darkpatterns.org/)
 * [Five Minutes of Javascript](https://fivejs.codeschool.com/) - Newsletter of Current Javascript News
 
 ## Youtube Channels
 
 * [The New Boston](https://www.youtube.com/user/thenewboston)
+* [Derek Banas](https://www.youtube.com/user/derekbanas)
 * [learncode.Academy](https://www.youtube.com/user/learncodeacademy)
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 * [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa)
@@ -185,6 +200,7 @@
 * Developer Tools:
 
   * [Learn the Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
+  * [Hands on Practice](https://github.com/jkup/mastering-chrome-devtools)
 
 * Databases:
 
@@ -194,7 +210,19 @@
 
   * [Code Combat](https://codecombat.com/play/dungeon) - Game for learning javascript programming
   * [Code Fights - Bots](https://codefights.com/company-bots)
+  
+* [Links](https://hackr.io/) for different languages and frameworks
 
 <hr>
 
 ### Again, if you have any questions, suggestions, or feedback: Raise an issue and let us know!
+
+
+
+
+
+
+## Here are some good resources and advice that may be helpful while working through [Free Code Camp](https://www.freecodecamp.com/)'s learning path:
+
+#### If you have any suggestions, please raise an issue or get in touch with me: gwenfaraday@gmail.com
+
